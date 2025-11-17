@@ -9,7 +9,7 @@ Simple Java console program that checks if a number is even or odd.
 - Loops until user decides to stop
 - Friendly messages to guide the user
 
-  <hr>
+<hr>
 
 ## How to Run
 1. Make sure you have [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) installed.
